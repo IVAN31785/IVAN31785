@@ -41,6 +41,8 @@ QA Engineer enfocado en **asegurar la calidad de aplicaciones web y APIs**, con 
 * Chrome DevTools / Firefox DevTools
 * Google Sheets / Docs
 * Figma
+* SQL
+* Python
 
 ---
 
