@@ -1,4 +1,4 @@
-# 👋 Hola, soy Iván Zurita
+# 👋 Hola, soy Iván Zurita Encinas
 
 ## 🧪 Quality Assurance Engineer | Manual & API Testing
 
