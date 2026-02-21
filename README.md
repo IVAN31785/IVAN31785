@@ -37,7 +37,7 @@ QA Engineer enfocado en **asegurar la calidad de aplicaciones web y APIs**, con 
 
 * Postman
 * Jira
-* Selenium (básico)
+* Selenium
 * Chrome DevTools / Firefox DevTools
 * Google Sheets / Docs
 * Figma
