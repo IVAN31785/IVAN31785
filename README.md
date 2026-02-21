@@ -220,7 +220,7 @@ Analicé requisitos de backend y diseñé **35+ casos de prueba** para APIs de k
 
 ## 🎓 Educación
 
-* **QA Engineering Certificate** – TripleTen (2025)
+* **QA Engineering Certificate** – TripleTen (2025-2026)
 * **Licenciatura en Telecomunicaciones** – Universidad Católica Boliviana “San Pablo” (2004 – 2011)
 
 ---
